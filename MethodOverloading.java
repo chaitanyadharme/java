@@ -11,12 +11,12 @@ public class MethodOverloading
 }
 
 
-public class Overloading
+class Overloading
 {
     public int add(int x,int y,int z)
     {
        
-        int ad=x+y+x;
+        int ad=x+y+z;
         return ad;
     }
 
